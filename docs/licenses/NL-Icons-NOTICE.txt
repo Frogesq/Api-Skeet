@@ -1,0 +1,7 @@
+Font Awesome 6 Pro Solid
+Copyright (c) Font Awesome
+
+Unmodified font.
+Original SFNT family: Font Awesome 6 Pro Solid
+Original PostScript name: FontAwesome6Pro-Solid
+The Noto OFL.txt does not apply to this font. No additional license grant is included in the supplied font metadata.
